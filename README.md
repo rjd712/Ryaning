@@ -1,3 +1,9 @@
+---
+title: Welcome
+has_children: false
+nav_order: 1
+---
+
 ## Welcome to GitHub
 
 You can use the [editor on GitHub](https://github.com/rjd712/Ryaning/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
