@@ -6,8 +6,16 @@ description: "My home page"
 permalink: /
 ---
 
-## Getting started
+## Welcome to my site
 
-### Dependencies
+### Ryan Drobny
 
-Stuff goes here. 
+PNW born and raised. Father. Husband. 
+Baseball fan. 
+Player of Ultimate. 
+Good beer drinker. 
+Thinker.
+
+Contact. 
+
+See my other stuff via the navigation. 
