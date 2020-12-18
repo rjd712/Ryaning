@@ -25,7 +25,6 @@ Good beer drinker.
 Thinker.
 
 Contact.  
-  
-  
-  
+\
+\
 See my other stuff via the navigation. 
