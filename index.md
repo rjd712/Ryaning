@@ -12,19 +12,10 @@ permalink: /
 \
 \
 PNW born and raised. Father. Husband. 
-
-
 Baseball fan. 
-
-
 Player of Ultimate. 
-
-
-Good beer drinker. 
-
-
+Good-beer drinker. 
 Thinker.
-
 Contact.  
 \
 \
