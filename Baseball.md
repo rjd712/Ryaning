@@ -3,7 +3,8 @@ nav-order: 3
 ---
 
 ## Baseball
+\
+ottoneu\
+Seattle Mariners\
+Spokane Indians\
 
-ottoneu  
-Seattle Mariners  
-Spokane Indians  
