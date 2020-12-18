@@ -9,4 +9,5 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: light
+color_scheme: link-color
