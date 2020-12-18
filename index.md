@@ -9,11 +9,6 @@ permalink: /
 ## Welcome to my site
 \
 \
-PNW born and raised. Father. Husband.\
-Baseball fan.\
-Player of Ultimate.\
-Good-beer drinker.\
-Thinker.\
 Contact.
 \
 \
