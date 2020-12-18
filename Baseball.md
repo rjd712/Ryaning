@@ -7,4 +7,3 @@ nav-order: 3
 ottoneu\
 Seattle Mariners\
 Spokane Indians\
-
