@@ -7,8 +7,6 @@ permalink: /
 ---
 
 ## Welcome to my site
-
-### Ryan Drobny  
 \
 \
 PNW born and raised. Father. Husband.\
